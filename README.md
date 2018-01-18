@@ -4,4 +4,4 @@ A polished front-end framework exemplifying bootstrap usage.
 
 # Screenshots
 
-![About Page](/screenshots/about.png)
+![About Page](/Screenshots/about.png)
