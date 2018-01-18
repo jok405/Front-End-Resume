@@ -1,6 +1,6 @@
 # Responsive Front-end Design
 
-A polished front-end framework exemplifying bootstrap usage and mobile-ready responsive design.
+A polished front-end framework exemplifying bootstrap usage and mobile-ready responsive design. Images of mobile layout design can be found in screenshots folder.
 
 ## Screenshots
 
