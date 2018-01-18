@@ -1,6 +1,6 @@
-# Front-end Design
+# Responsive Front-end Design
 
-A polished front-end framework exemplifying bootstrap usage. 
+A polished front-end framework exemplifying bootstrap usage and mobile-ready responsive design.
 
 ## Screenshots
 
